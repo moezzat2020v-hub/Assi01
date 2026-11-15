@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.Net\\Ass 01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1867E19-B01A-0452-28B0-58B5E48D0EF7}|Ass 01.csproj|d:\\asp.net\\ass 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1867E19-B01A-0452-28B0-58B5E48D0EF7}|Ass 01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.Net\\Ass 01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Asp.Net\\Ass 01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T04:49:10.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
